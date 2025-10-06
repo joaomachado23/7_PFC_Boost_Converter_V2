@@ -24,11 +24,13 @@ Conteúdos disponíveis neste repositório:
 
 - PDF com toda a documentação do projeto (apresentação): estado da arte, design, simulação, conceção, testes e resultados.
 
-- Ficheiro Excel com a extração da reta de tendência dos sensores, para usar no ambiente de programação do microcontrolador.
+- Ficheiro rar com fotos e vídeos do protótipo.
 
-- Ficheiro ZIP com o código em C utilizado para a STM32.
+- Pasta com prints de resultados dos testes ao conversor.
 
 - Ficheiro PSIM (.psimsch) com a simulação do conversor.
+  
+- Pasta com o projeto da PCB feito em Altium.
 
 Este trabalho foi fundamental para explorar o desafio de integrar toda a tecnologia numa PCB e para consolidar conhecimentos em eletrónica de potência, com foco no hardware de potência, condicionamento de sinal e firmware de controlo. Foi um projeto exigente, dadas todas as condicionantes a ter em atenção e não esquecendo a função principal do conversor, mas foi concluído com sucesso.
 
