@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=pfc.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=pfc.SchDoc|Designator=U_converter|SchDesignator=U_converter|FileName=converter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pfc.SchDoc|Designator=U_powerReg|SchDesignator=U_powerReg|FileName=powerReg.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=powerReg.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pfc.SchDoc|Designator=U_uController|SchDesignator=U_uController|FileName=uController.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=uController.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
