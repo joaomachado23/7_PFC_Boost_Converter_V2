@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=iRead Pin=TP3-1
+Added Pin To Net: NetName=iRead Pin=U1-8
+Add Net: Net with name "+15v" already exists

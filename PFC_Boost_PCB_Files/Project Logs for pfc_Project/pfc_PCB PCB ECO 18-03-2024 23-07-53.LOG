@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetIC5_14 Pin=R8-2
+Added Pin To Net: NetName=NetIC5_14 Pin=R9-1
+Add Net: Net with name "+15v" already exists
+Add Net: Net with name "iRead" already exists
+Added Pin To Net: NetName=NetIC5_8 Pin=IC5-8
+Added Pin To Net: NetName=NetIC5_8 Pin=R8-2
+Added Net: Name=NetIC5_8
+Added Pin To Net: NetName=NetIC5_9 Pin=IC5-9
+Added Pin To Net: NetName=NetIC5_9 Pin=R7-2
+Added Net: Name=NetIC5_9

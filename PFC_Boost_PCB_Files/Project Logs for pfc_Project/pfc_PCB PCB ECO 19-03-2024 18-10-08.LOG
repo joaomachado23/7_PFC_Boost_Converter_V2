@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=iRead Pin=IC3-12
+Removed Pin From Net: NetName=vRead Pin=IC3-13
+Change Component Designator: OldDesignator=iRead NewDesignator=TP3
+Added Pin To Net: NetName=i_adc Pin=IC3-12
+Added Pin To Net: NetName=v_adc Pin=IC3-13

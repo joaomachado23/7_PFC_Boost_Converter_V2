@@ -1,0 +1,397 @@
+Added Component: Designator=C1(CAPACITOR_0805)
+Added Component: Designator=C2(CAPACITOR_0805)
+Added Component: Designator=C3(CAPACITOR_0805)
+Added Component: Designator=C4(CAPACITOR_0805)
+Added Component: Designator=C5(CAPACITOR_0805)
+Added Component: Designator=C6(Capacitor 0805 polaryzed)
+Added Component: Designator=C7(CAPACITOR_0805)
+Added Component: Designator=C8(CAPACITOR_0805)
+Added Component: Designator=C9(Capacitor 0805 polaryzed)
+Added Component: Designator=C10(CAPACITOR_0805)
+Added Component: Designator=C11(CAPACITOR_0805)
+Added Component: Designator=C12(CAPACITOR_0805)
+Added Component: Designator=C13(CAPACITOR_0805)
+Added Component: Designator=C14(CAPACITOR_0805)
+Added Component: Designator=C15(CAPACITOR_0805)
+Added Component: Designator=C16(CAP 20x12.5)
+Added Component: Designator=C17(CAPACITOR 220nF)
+Added Component: Designator=C18(CAPACITOR_0805)
+Added Component: Designator=C19(CAPACITOR_0805)
+Added Component: Designator=C20(CAPACITOR_0805)
+Added Component: Designator=C21(CAPACITOR_0805)
+Added Component: Designator=C22(CAPACITOR_0805)
+Added Component: Designator=C23(CAPACITOR_0805)
+Added Component: Designator=C24(CAPACITOR_0805)
+Added Component: Designator=C25(CAPACITOR_0805)
+Added Component: Designator=C26(Capacitor 0805 polaryzed)
+Added Component: Designator=C27(Capacitor 0805 polaryzed)
+Added Component: Designator=C28(CAPACITOR_0805)
+Added Component: Designator=C29(Capacitor 0805 polaryzed)
+Added Component: Designator=C30(CAPACITOR_0805)
+Added Component: Designator=C31(CAPACITOR_0805)
+Added Component: Designator=C32(CAPACITOR_0805)
+Added Component: Designator=C33(CAPACITOR_1210)
+Added Component: Designator=CN1(Header 2x3)
+Added Component: Designator=CN2(NC6P10802)
+Added Component: Designator=CN3(NC6P10802)
+Added Component: Designator=D1(LED 0805)
+Added Component: Designator=D2(LED 0805)
+Added Component: Designator=D3(GBI10M)
+Added Component: Designator=D4(D2PAK)
+Added Component: Designator=IC1(BAT54S)
+Added Component: Designator=IC2(SO-8)
+Added Component: Designator=IC3(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32G474RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32g474ret6/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32g474re.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32G474RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32G474RET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G474RET6?qs=PzGy0jfpSMvUBs7PMTDqlg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(BAT54S)
+Added Component: Designator=IC5(SSOP-16)
+Added Component: Designator=IC6(SO-8)
+Added Component: Designator=IC7(SOT323)
+Added Component: Designator=IC8(SO-8)
+Added Component: Designator=IC9(SOT-223-4)
+Added Component: Designator=IGBT1(D2PAK)
+Added Component: Designator=J2(UJ2MIBH24SMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UJ2-MIBH2-4-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uj2-mibh2-4-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/digikeypdf/uj2-mibh2-4-smt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UJ2-MIBH2-4-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-UJ2-MIBH2-4-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ2-MIBH2-4-SMT-TR?qs=5mqXD9RfOg1yxHIpPvPxvQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HEADER 1X5)
+Added Component: Designator=J4(Conector 1x3 Screw)
+Added Component: Designator=L1(INDUCTOR 500u)
+Add component (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Initial Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "M"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(Inductor 1005)
+Add component (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Initial Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "M"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=PSU1(PDSE1-S15-S15-S)
+Added Component: Designator=R1(RESISTOR_0805)
+Added Component: Designator=R2(RESISTOR_0805)
+Added Component: Designator=R3(RESISTOR_0805)
+Added Component: Designator=R4(RESISTOR_0805)
+Added Component: Designator=R5(RESISTOR_0805)
+Added Component: Designator=R6(RESISTOR_0805)
+Added Component: Designator=R7(RESISTOR_0805)
+Added Component: Designator=R8(RESISTOR_0805)
+Added Component: Designator=R9(RESISTOR_0805)
+Added Component: Designator=R10(RESISTOR_0805)
+Added Component: Designator=R11(RESISTOR_0805)
+Added Component: Designator=R12(RESISTOR_0805)
+Added Component: Designator=R13(RESISTOR_0805)
+Added Component: Designator=R14(RESISTOR_0805)
+Added Component: Designator=R15(RESISTOR_0805)
+Added Component: Designator=R16(RESISTOR_0805)
+Added Component: Designator=R17(RESISTOR_0805)
+Added Component: Designator=R18(RESISTOR_0805)
+Added Component: Designator=S1(Push_Button)
+Added Component: Designator=TP1(TestPoint)
+Added Component: Designator=TP2(TestPoint)
+Added Component: Designator=TP3(TestPoint)
+Added Component: Designator=TP4(TestPoint)
+Added Component: Designator=TP(TestPoint)
+Added Component: Designator=U1(LTSR25-NP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-16/DSA-314824.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTSR 25-NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(LV-25-P/LV-20-P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LV25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(Fuse 1206)
+Add component (AddParameter): Name = "CURRENT"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RESISTANCE"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C26-1
+Added Pin To Net: NetName=+3V3 Pin=C31-1
+Added Pin To Net: NetName=+3V3 Pin=IC7-1
+Added Pin To Net: NetName=+3V3 Pin=IC9-2
+Added Pin To Net: NetName=+3V3 Pin=IC9-4
+Added Net: Name=+3V3
+Add Net: Net with name "+3V3" already exists
+Added Pin To Net: NetName=+5v Pin=C29-1
+Added Pin To Net: NetName=+5v Pin=C33-1
+Added Pin To Net: NetName=+5v Pin=IC8-4
+Added Pin To Net: NetName=+5v Pin=L2-2
+Added Net: Name=+5v
+Add Net: Net with name "+5v" already exists
+Add Net: Net with name "+5v" already exists
+Added Pin To Net: NetName=+15V_P Pin=C25-1
+Added Pin To Net: NetName=+15V_P Pin=PSU1-4
+Added Net: Name=+15V_P
+Add Net: Net with name "+15V_P" already exists
+Added Pin To Net: NetName=+15v Pin=C22-1
+Added Pin To Net: NetName=+15v Pin=U2-3
+Added Net: Name=+15v
+Add Net: Net with name "+15v" already exists
+Added Pin To Net: NetName=-15v Pin=C23-1
+Added Pin To Net: NetName=-15v Pin=U2-4
+Added Net: Name=-15v
+Add Net: Net with name "-15v" already exists
+Added Pin To Net: NetName=AC_1 Pin=X1-2
+Added Net: Name=AC_1
+Add Net: Net with name "AC_1" already exists
+Added Pin To Net: NetName=AC_2 Pin=D3-3
+Added Net: Name=AC_2
+Add Net: Net with name "AC_2" already exists
+Added Pin To Net: NetName=GND_P Pin=C18-2
+Added Pin To Net: NetName=GND_P Pin=C20-2
+Added Pin To Net: NetName=GND_P Pin=C25-2
+Added Pin To Net: NetName=GND_P Pin=D3-4
+Added Pin To Net: NetName=GND_P Pin=IC6-8
+Added Pin To Net: NetName=GND_P Pin=PSU1-3
+Added Pin To Net: NetName=GND_P Pin=R18-2
+Added Pin To Net: NetName=GND_P Pin=TP-1
+Added Pin To Net: NetName=GND_P Pin=U2-1
+Added Net: Name=GND_P
+Added Pin To Net: NetName=hpwm Pin=IC3-45
+Added Pin To Net: NetName=hpwm Pin=IC6-2
+Added Pin To Net: NetName=hpwm Pin=J3-5
+Added Net: Name=hpwm
+Added Pin To Net: NetName=i_adc Pin=C1-1
+Added Pin To Net: NetName=i_adc Pin=IC1-3
+Added Pin To Net: NetName=i_adc Pin=R3-2
+Added Net: Name=i_adc
+Added Pin To Net: NetName=iRead Pin=IC3-12
+Added Pin To Net: NetName=iRead Pin=J3-2
+Added Pin To Net: NetName=iRead Pin=R4-1
+Added Pin To Net: NetName=iRead Pin=TP3-1
+Added Pin To Net: NetName=iRead Pin=U1-8
+Added Net: Name=iRead
+Added Pin To Net: NetName=Isense1 Pin=D3-1
+Added Pin To Net: NetName=Isense1 Pin=R17-1
+Added Pin To Net: NetName=Isense1 Pin=TP1-1
+Added Pin To Net: NetName=Isense1 Pin=U1-1
+Added Pin To Net: NetName=Isense1 Pin=U1-2
+Added Net: Name=Isense1
+Added Pin To Net: NetName=Isense2 Pin=L1-1
+Added Pin To Net: NetName=Isense2 Pin=U1-4
+Added Net: Name=Isense2
+Added Pin To Net: NetName=lpwm Pin=IC3-44
+Added Pin To Net: NetName=lpwm Pin=IC6-3
+Added Pin To Net: NetName=lpwm Pin=J3-4
+Added Net: Name=lpwm
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC5-3
+Added Pin To Net: NetName=NetC7_1 Pin=IC5-10
+Added Pin To Net: NetName=NetC7_1 Pin=IC5-11
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=IC8-2
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=IC8-1
+Added Pin To Net: NetName=NetC28_2 Pin=L2-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=IC8-3
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R13-2
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R12-2
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=R11-2
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_1 Pin=X1-1
+Added Net: Name=NetCN2_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R9-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R10-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-3
+Added Pin To Net: NetName=NetD4_1 Pin=IGBT1-2
+Added Pin To Net: NetName=NetD4_1 Pin=L1-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetIC2_1 Pin=R3-1
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R2-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=R4-2
+Added Pin To Net: NetName=NetIC2_3 Pin=R5-1
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_6 Pin=R6-1
+Added Net: Name=NetIC2_6
+Added Pin To Net: NetName=NetIC5_7 Pin=IC5-7
+Added Pin To Net: NetName=NetIC5_7 Pin=R10-1
+Added Net: Name=NetIC5_7
+Added Pin To Net: NetName=NetIC5_13 Pin=IC5-13
+Added Pin To Net: NetName=NetIC5_13 Pin=R7-2
+Added Net: Name=NetIC5_13
+Added Pin To Net: NetName=NetIC5_14 Pin=IC5-14
+Added Pin To Net: NetName=NetIC5_14 Pin=R8-2
+Added Net: Name=NetIC5_14
+Add Net: Net with name "NetIC5_14" already exists
+Added Pin To Net: NetName=NetIC6_6 Pin=IC6-6
+Added Pin To Net: NetName=NetIC6_6 Pin=R15-1
+Added Net: Name=NetIC6_6
+Added Pin To Net: NetName=NetIC6_7 Pin=IC6-7
+Added Pin To Net: NetName=NetIC6_7 Pin=R14-1
+Added Net: Name=NetIC6_7
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U2-5
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U1-5
+Added Pin To Net: NetName=NetU1_3 Pin=U1-6
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NRST Pin=C15-1
+Added Pin To Net: NetName=NRST Pin=CN1-5
+Added Pin To Net: NetName=NRST Pin=IC3-7
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=out+ Pin=C16-1
+Added Pin To Net: NetName=out+ Pin=C17-1
+Added Pin To Net: NetName=out+ Pin=D4-2
+Added Net: Name=out+
+Add Net: Net with name "out+" already exists
+Added Pin To Net: NetName=out- Pin=CN3-2
+Added Net: Name=out-
+Add Net: Net with name "out-" already exists
+Added Pin To Net: NetName=PWM Pin=IGBT1-1
+Added Pin To Net: NetName=PWM Pin=R14-2
+Added Pin To Net: NetName=PWM Pin=R15-2
+Added Pin To Net: NetName=PWM Pin=R18-1
+Added Pin To Net: NetName=PWM Pin=TP2-1
+Added Net: Name=PWM
+Added Pin To Net: NetName=RX1 Pin=IC3-23
+Added Pin To Net: NetName=RX1 Pin=IC5-1
+Added Net: Name=RX1
+Added Pin To Net: NetName=SWCLK Pin=IC3-50
+Added Pin To Net: NetName=SWCLK Pin=R12-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=IC3-49
+Added Pin To Net: NetName=SWDIO Pin=R11-1
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=IC3-56
+Added Pin To Net: NetName=SWO Pin=R13-1
+Added Net: Name=SWO
+Added Pin To Net: NetName=TX1 Pin=IC3-22
+Added Pin To Net: NetName=TX1 Pin=IC5-4
+Added Net: Name=TX1
+Added Pin To Net: NetName=USBDM Pin=C4-1
+Added Pin To Net: NetName=USBDM Pin=J2-2
+Added Pin To Net: NetName=USBDM Pin=R7-1
+Added Net: Name=USBDM
+Added Pin To Net: NetName=USBDP Pin=C5-1
+Added Pin To Net: NetName=USBDP Pin=J2-3
+Added Pin To Net: NetName=USBDP Pin=R8-1
+Added Net: Name=USBDP
+Added Pin To Net: NetName=v_adc Pin=C2-1
+Added Pin To Net: NetName=v_adc Pin=IC4-3
+Added Pin To Net: NetName=v_adc Pin=R6-2
+Added Net: Name=v_adc
+Added Pin To Net: NetName=vRead Pin=IC2-5
+Added Pin To Net: NetName=vRead Pin=IC3-13
+Added Pin To Net: NetName=vRead Pin=J3-1
+Added Pin To Net: NetName=vRead Pin=R16-1
+Added Pin To Net: NetName=vRead Pin=TP4-1
+Added Pin To Net: NetName=vRead Pin=U2-2
+Added Net: Name=vRead
+Added Pin To Net: NetName=vref Pin=R2-1
+Added Net: Name=vref
+Add Net: Net with name "vref" already exists
+Added Pin To Net: NetName=VSS Pin=C1-2
+Added Pin To Net: NetName=VSS Pin=C2-2
+Added Pin To Net: NetName=VSS Pin=C3-2
+Added Pin To Net: NetName=VSS Pin=C4-2
+Added Pin To Net: NetName=VSS Pin=C5-2
+Added Pin To Net: NetName=VSS Pin=C6-2
+Added Pin To Net: NetName=VSS Pin=C7-2
+Added Pin To Net: NetName=VSS Pin=C8-2
+Added Pin To Net: NetName=VSS Pin=C9-2
+Added Pin To Net: NetName=VSS Pin=C10-2
+Added Pin To Net: NetName=VSS Pin=C11-2
+Added Pin To Net: NetName=VSS Pin=C12-2
+Added Pin To Net: NetName=VSS Pin=C13-2
+Added Pin To Net: NetName=VSS Pin=C14-2
+Added Pin To Net: NetName=VSS Pin=C15-2
+Added Pin To Net: NetName=VSS Pin=C19-2
+Added Pin To Net: NetName=VSS Pin=C21-2
+Added Pin To Net: NetName=VSS Pin=C22-2
+Added Pin To Net: NetName=VSS Pin=C23-2
+Added Pin To Net: NetName=VSS Pin=C24-2
+Added Pin To Net: NetName=VSS Pin=C26-2
+Added Pin To Net: NetName=VSS Pin=C27-2
+Added Pin To Net: NetName=VSS Pin=C29-2
+Added Pin To Net: NetName=VSS Pin=C30-2
+Added Pin To Net: NetName=VSS Pin=C31-2
+Added Pin To Net: NetName=VSS Pin=C32-2
+Added Pin To Net: NetName=VSS Pin=C33-2
+Added Pin To Net: NetName=VSS Pin=CN1-4
+Added Pin To Net: NetName=VSS Pin=IC1-1
+Added Pin To Net: NetName=VSS Pin=IC2-4
+Added Pin To Net: NetName=VSS Pin=IC3-15
+Added Pin To Net: NetName=VSS Pin=IC3-31
+Added Pin To Net: NetName=VSS Pin=IC3-47
+Added Pin To Net: NetName=VSS Pin=IC3-63
+Added Pin To Net: NetName=VSS Pin=IC4-1
+Added Pin To Net: NetName=VSS Pin=IC5-5
+Added Pin To Net: NetName=VSS Pin=IC5-13
+Added Pin To Net: NetName=VSS Pin=IC6-4
+Added Pin To Net: NetName=VSS Pin=IC7-3
+Added Pin To Net: NetName=VSS Pin=IC8-6
+Added Pin To Net: NetName=VSS Pin=IC8-8
+Added Pin To Net: NetName=VSS Pin=IC9-1
+Added Pin To Net: NetName=VSS Pin=J2-5
+Added Pin To Net: NetName=VSS Pin=J3-3
+Added Pin To Net: NetName=VSS Pin=J4-2
+Added Pin To Net: NetName=VSS Pin=PSU1-1
+Added Pin To Net: NetName=VSS Pin=R5-2
+Added Pin To Net: NetName=VSS Pin=R16-2
+Added Pin To Net: NetName=VSS Pin=S1-3
+Added Pin To Net: NetName=VSS Pin=S1-4
+Added Pin To Net: NetName=VSS Pin=U1-9
+Added Net: Name=VSS
+Added Class: Name=U_converter
+Added Class: Name=U_powerReg
+Added Class: Name=U_uController

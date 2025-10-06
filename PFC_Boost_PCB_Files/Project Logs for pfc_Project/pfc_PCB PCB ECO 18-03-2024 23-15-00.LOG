@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=VSS Pin=C19-2
+Added Pin To Net: NetName=VSS Pin=C21-2
+Added Pin To Net: NetName=VSS Pin=C22-2
+Added Pin To Net: NetName=VSS Pin=C23-2
+Added Pin To Net: NetName=VSS Pin=IC6-4
+Added Pin To Net: NetName=VSS Pin=R16-2
+Added Pin To Net: NetName=VSS Pin=U1-9
+Change Net Name : Old Net Name=VSS New Net Name=GND
+Add Net: Net with name "+15v" already exists

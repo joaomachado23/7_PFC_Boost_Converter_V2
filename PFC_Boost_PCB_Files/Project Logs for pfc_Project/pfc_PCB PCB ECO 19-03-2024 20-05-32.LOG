@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TX1 Pin=IC3-22
+Removed Pin From Net: NetName=RX1 Pin=IC3-23
+Removed Pin From Net: NetName=lpwm Pin=IC3-44
+Removed Pin From Net: NetName=vRead Pin=J3-1
+Removed Pin From Net: NetName=iRead Pin=J3-2
+Added Pin To Net: NetName=TX1 Pin=IC3-43
+Added Pin To Net: NetName=RX1 Pin=IC3-44
+Added Pin To Net: NetName=lpwm Pin=IC3-46
+Added Pin To Net: NetName=v_adc Pin=J3-1
+Added Pin To Net: NetName=i_adc Pin=J3-2

@@ -1,0 +1,26 @@
+Added Component: Designator=J2(UJ2MIBH24SMTTR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UJ2-MIBH2-4-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uj2-mibh2-4-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/digikeypdf/uj2-mibh2-4-smt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UJ2-MIBH2-4-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-UJ2-MIBH2-4-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/UJ2-MIBH2-4-SMT-TR?qs=5mqXD9RfOg1yxHIpPvPxvQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC5_13 Pin=IC5-13
+Added Pin To Net: NetName=USBDM Pin=J2-2
+Added Pin To Net: NetName=USBDP Pin=J2-3
+Added Pin To Net: NetName=VSS Pin=J2-5
+Add Net: Net with name "+3V3" already exists
+Add Net: Net with name "+5v" already exists
+Add Net: Net with name "+5v" already exists
+Add Net: Net with name "+15V_P" already exists
+Add Net: Net with name "+15v" already exists
+Add Net: Net with name "-15v" already exists
+Add Net: Net with name "AC_1" already exists
+Add Net: Net with name "AC_2" already exists
+Add Net: Net with name "NetIC5_14" already exists
+Add Net: Net with name "out+" already exists
+Add Net: Net with name "out-" already exists
+Add Net: Net with name "vref" already exists
+Added Member To Class: ClassName=U_uController Member=Component J2 UJ2-MIBH2-4-SMT-TR

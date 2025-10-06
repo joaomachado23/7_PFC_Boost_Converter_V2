@@ -1,0 +1,6 @@
+Added Component: Designator=C34(CAPACITOR_0805)
+Added Pin To Net: NetName=+3V3 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=IC3-27
+Added Pin To Net: NetName=+3V3 Pin=IC3-29
+Added Member To Class: ClassName=U_uController Member=Component C34 100nF

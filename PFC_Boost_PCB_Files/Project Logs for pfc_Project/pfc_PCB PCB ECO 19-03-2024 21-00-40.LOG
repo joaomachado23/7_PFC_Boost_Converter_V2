@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=lpwm Pin=J3-4
+Removed Pin From Net: NetName=hpwm Pin=J3-5
+Added Pin To Net: NetName=hpwm Pin=J3-4
+Added Pin To Net: NetName=lpwm Pin=J3-5

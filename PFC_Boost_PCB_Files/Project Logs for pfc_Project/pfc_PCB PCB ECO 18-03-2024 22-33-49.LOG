@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetIC5_13 Pin=IC5-13
+Add Net: Net with name "+3V3" already exists
+Add Net: Net with name "+5v" already exists
+Add Net: Net with name "+5v" already exists
+Add Net: Net with name "+15V_P" already exists
+Add Net: Net with name "+15v" already exists
+Add Net: Net with name "-15v" already exists
+Add Net: Net with name "AC_1" already exists
+Add Net: Net with name "AC_2" already exists
+Add Net: Net with name "NetIC5_14" already exists
+Add Net: Net with name "out+" already exists
+Add Net: Net with name "out-" already exists
+Add Net: Net with name "vref" already exists

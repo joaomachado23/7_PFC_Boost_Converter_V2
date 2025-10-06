@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM Pin=TP2-1
+Removed Pin From Net: NetName=GND_P Pin=TP-1
+Removed Member From Class: ClassName=U_converter Member=TP2
+Removed Member From Class: ClassName=U_converter Member=TP

@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=VSS Pin=C19-2
+Removed Pin From Net: NetName=VSS Pin=C21-2
+Removed Pin From Net: NetName=VSS Pin=C22-2
+Removed Pin From Net: NetName=VSS Pin=C23-2
+Removed Pin From Net: NetName=VSS Pin=IC6-4
+Removed Pin From Net: NetName=VSS Pin=R16-2
+Removed Pin From Net: NetName=iRead Pin=TP3-1
+Removed Pin From Net: NetName=iRead Pin=U1-8
+Removed Pin From Net: NetName=VSS Pin=U1-9
+Added Pin To Net: NetName=+5v Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C13-1
+Added Pin To Net: NetName=+3V3 Pin=C14-1
+Added Pin To Net: NetName=out- Pin=C16-2
+Added Pin To Net: NetName=out- Pin=C17-2
+Added Pin To Net: NetName=+15V_P Pin=C18-1
+Added Pin To Net: NetName=+5v Pin=C19-1
+Added Pin To Net: NetName=+15V_P Pin=C20-1
+Added Pin To Net: NetName=+5v Pin=C21-1
+Added Pin To Net: NetName=vref Pin=C27-1
+Added Pin To Net: NetName=+3V3 Pin=CN1-6
+Added Pin To Net: NetName=out+ Pin=CN3-1
+Added Pin To Net: NetName=+3V3 Pin=D1-2
+Added Pin To Net: NetName=+3V3 Pin=D2-2
+Added Pin To Net: NetName=+3V3 Pin=IC1-2
+Added Pin To Net: NetName=+5v Pin=IC2-8
+Added Pin To Net: NetName=+3V3 Pin=IC3-1
+Added Pin To Net: NetName=+3V3 Pin=IC3-16
+Added Pin To Net: NetName=+3V3 Pin=IC3-32
+Added Pin To Net: NetName=+3V3 Pin=IC3-48
+Added Pin To Net: NetName=+3V3 Pin=IC3-64
+Added Pin To Net: NetName=+3V3 Pin=IC4-2
+Added Pin To Net: NetName=+3V3 Pin=IC5-12
+Added Pin To Net: NetName=VSS Pin=IC5-13
+Added Pin To Net: NetName=+5v Pin=IC6-1
+Added Pin To Net: NetName=+15V_P Pin=IC6-5
+Added Pin To Net: NetName=vref Pin=IC7-2
+Added Pin To Net: NetName=out- Pin=IGBT1-3
+Added Pin To Net: NetName=-15v Pin=J4-3
+Added Pin To Net: NetName=+5v Pin=U1-10
+Add Net: Net with name "+15v" already exists
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=IC6-4
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Net: Name=GND
+Add Net: Net with name "iRead" already exists
+Add Net: Net with name "NetIC5_14" already exists
